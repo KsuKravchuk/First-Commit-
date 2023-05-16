@@ -13,6 +13,12 @@ public class Main {
         for (int i = 1; i < array.length; i = i + 2) {
             System.out.println(array[i]);
             // можно ли сделать это в одном цикле???
+            // Уточни задачу
+
+
+
+
+
 
 
 
