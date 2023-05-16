@@ -22,6 +22,8 @@ public class Main {
 
 
 
+
+
         }
 //        int result = 0;
 //        int middle = array.length / 2;
