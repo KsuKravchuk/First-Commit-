@@ -14,6 +14,8 @@ public class Main {
             System.out.println(array[i]);
             // можно ли сделать это в одном цикле???
 
+
+
         }
 //        int result = 0;
 //        int middle = array.length / 2;
